@@ -30,7 +30,7 @@ A deep learning-based system that detects COVID-19 from chest X-ray images using
 3. Run the application
 
    ```
-   python app.py
+   python app.py runserver
    ```
 4. Open in browser
 
@@ -40,7 +40,8 @@ A deep learning-based system that detects COVID-19 from chest X-ray images using
 
 ## 📷 Screenshots
 
-(Add screenshots here)
+<img width="1918" height="1094" alt="image" src="https://github.com/user-attachments/assets/8ecfce5b-0331-4cb0-b32c-44662da51358" />
+
 
 ## 📌 Author
 
